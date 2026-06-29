@@ -1,0 +1,6 @@
+{
+  "name": "উর্মি মৃৎশিল্প (Urmi Mrityoshilpo)",
+  "description": "Premium full-stack e-commerce store for traditional and modern handmade clay products in Bangladesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
